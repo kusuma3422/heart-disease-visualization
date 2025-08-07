@@ -4,7 +4,8 @@ An interactive **Power BI Dashboard** that analyzes and visualizes heart disease
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://your-image-url-if-any.com)
+![Dashboard Screenshot](7419bb05-9466-4b59-8e57-d2cb40802408.png)
+
 
 ## 📌 Overview
 
